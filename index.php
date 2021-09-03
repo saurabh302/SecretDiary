@@ -82,7 +82,7 @@ if ($conn->query($sql) === TRUE) {
 		<form action="index.php" method="post">
 		<div id="login-box">
             <div class="login-box">
-                <h1>Sing Up</h1>
+                <h1>Sign Up</h1>
 
                 <div class="textbox">
                     <i class="fa fa-user" aria-hidden="true"></i>
